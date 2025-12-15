@@ -1,5 +1,6 @@
-a = int(input("Enter the first number"))
-b = int(input("Enter the second number"))
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+print("\n")
 if a and b:
         print("Addition: ", a+b)
         print("Subtraction: ", a-b)
